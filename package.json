@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nlrb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NLRB MCP — US National Labor Relations Board case search: unfair labor",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-adea8a31ab0dc875acd9ea3137ee9476568b66512b4c7e4ad0833a6d76dfdda7",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-8a23e3dbbf86bb28afb692b39e4022b38eda209dd71119691051d2ae68719d2c",
+    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nlrb",
   "title": "Nlrb",
   "description": "NLRB MCP — US National Labor Relations Board case search: unfair labor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/nlrb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nlrb",
